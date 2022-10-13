@@ -60,5 +60,5 @@ Para jogar entre em [Live CoDe Termo](http://live-code-termo-ten.vercel.app/)
 
 ## Design
 Design criado por [Ulisses Silvério](https://github.com/Odisseu93)
-- [clique aqui para visualizar](https://github.com/Odisseu93)
+- [clique aqui para visualizar](https://www.canva.com/design/DAFO8ZqSaSA/view)
 
