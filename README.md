@@ -1,12 +1,14 @@
 # live-code-termo
+![](https://i.imgur.com/X7CMGRf.jpeg)
 Estamos criando uma cópia do jogo termo durante o Live CoDe.
 
+## Links
 Inspirado no jogo [Termo](https://term.ooo/)
 
 Para jogar entre em [Live CoDe Termo](http://live-code-termo-ten.vercel.app/)
 
 ---
-Lista de execução de tarefas para resolver o problema
+## Lista de execução de tarefas para resolver o problema
 
 - [X] Quebrar o problema em etapas
 - [X] Lista de palavras com 5 letras
@@ -55,3 +57,8 @@ Lista de execução de tarefas para resolver o problema
 - [X] Aceitar acentos na comparação
 
 - [X] Deixar responsivo e mais bonito!
+
+## Design
+Design criado por [Ulisses Silvério](https://github.com/Odisseu93)
+- [clique aqui para visualizar](https://github.com/Odisseu93)
+
